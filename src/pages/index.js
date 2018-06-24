@@ -3,6 +3,7 @@ import Link from "gatsby-link";
 import Helmet from "react-helmet";
 import '../styles/blog-listing.css';
 
+<a href="/blog">Go to blog</a>
 
 export default function Index({ data }) {
   const { edges: posts } = data.allMarkdownRemark;
