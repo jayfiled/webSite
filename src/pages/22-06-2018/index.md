@@ -1,12 +1,12 @@
 ---
-path: "/about-me"
+path: "/starting"
 date: "2017-07-12T17:12:33.962Z"
-title: "More about me"
+title: "Starting late, and busy but.."
 ---
 
 I'm a 34 year old dad of 3.
 
-Just starting my coding journey.  I can do it. I know how to. I've started from zero many times to reach difficult personal goals.
+I've started from zero many times to reach difficult personal goals;
 
     1. When I started learning Japanese (now have working proficiency)
 
