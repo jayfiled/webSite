@@ -15,15 +15,19 @@ It needs:
 
 
 <!-- Insert GIF for my ServiceDesk app & link to GitHub repo -->
-I think I need to use webPack or another graphQL query to insert the GIF I created that showcases my app - explained here:
-https://www.gatsbyjs.org/docs/adding-images-fonts-files/
+I think I need to use webPack or another graphQL query to insert the GIF I created that showcases my app - explained here
+<a href="https://www.gatsbyjs.org/docs/adding-images-fonts-files/>here.</a>
 
-Here are my pens in the meantime: 
+Here are my pens in the meantime:
 
-<p data-height="265" data-theme-id="light" data-slug-hash="mKPreW" data-default-tab="result" data-user="jayfiled" data-embed-version="2" data-pen-title="navbar scrolling test colors" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jayfiled/pen/mKPreW/">navbar scrolling test colors</a> by jayfiled (<a href="https://codepen.io/jayfiled">@jayfiled</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+*A simple test to create my first nav bar - (I would prefer to to in Vanilla JS - future Joel will.)*
+
+<p data-height="265" data-theme-id="light" data-slug-hash="mKPreW" data-default-tab="result" data-user="jayfiled" data-embed-version="2" data-pen-title="navbar scrolling test colors" class="codepen">See the Pen <a href="https://codepen.io/jayfiled/pen/mKPreW/">navbar scrolling test colors</a> by jayfiled (<a href="https://codepen.io/jayfiled">@jayfiled</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-<p data-height="265" data-theme-id="light" data-slug-hash="OEgpdY" data-default-tab="result" data-user="jayfiled" data-embed-version="2" data-pen-title="Animated Accordions" data-preview="true" class="codepen">See the Pen <a href="https://codepen.io/jayfiled/pen/OEgpdY/">Animated Accordions</a> by jayfiled (<a href="https://codepen.io/jayfiled">@jayfiled</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+*Some accordions*
+
+<p data-height="265" data-theme-id="light" data-slug-hash="XYgWxW" data-default-tab="result" data-user="jayfiled" data-embed-version="2" data-pen-title="JSAccordions" class="codepen">See the Pen <a href="https://codepen.io/jayfiled/pen/XYgWxW/">JSAccordions</a> by jayfiled (<a href="https://codepen.io/jayfiled">@jayfiled</a>) on <a href="https://codepen.io">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 <!-- Create a hiragana flash card app and thumbnail link it here -->
