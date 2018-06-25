@@ -6,10 +6,12 @@ import '../styles/tutorials.css'
 
 const Tutorials = () => (
   <div>
-<p>Toot, toot.</p>
+    <p>Toot, toot.</p>
+    <p> Trying to make cards for tutorials....</p>
   </div>
 )
 
+export default Tutorials
 
 /* Trying to make cards for tutorials....
  
@@ -32,7 +34,7 @@ const CssHoverContents = () => {
     </section>
 };
         
-        export default Tutorials
+
         export CssHoverContents
 
 ---
