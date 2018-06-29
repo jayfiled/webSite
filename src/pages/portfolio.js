@@ -20,12 +20,12 @@ const Portfolio = () => (
 <p> I would prefer to to in Vanilla JS - future Joel will.</p>
 
 
-<p data-height="265" data-theme-id="light" data-slug-hash="mKPreW" data-default-tab="result" data-user="jayfiled" data-embed-version="2" data-pen-title="navbar scrolling test colors" data-preview="true" class="codepen"><a href="https://codepen.io/jayfiled/pen/mKPreW/">Scrolling and navbar</a> by (<a href="https://codepen.io/jayfiled">@jayfiled</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<p data-height="265" data-theme-id="light" data-slug-hash="mKPreW" data-default-tab="result" data-user="jayfiled" data-embed-version="2" data-pen-title="navbar scrolling test colors" data-preview="true" class="codepen"><a href="https://codepen.io/jayfiled/pen/mKPreW/">Scrolling and navbar</a> by (<a href="https://codepen.io/jayfiled">@jayfiled</a>) on <a href="">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 <h3>Some accordions</h3>
 
-<p data-height="265" data-theme-id="light" data-slug-hash="XYgWxW" data-default-tab="result" data-user="jayfiled" data-embed-version="2" data-pen-title="JSAccordions" class="codepen"><a href="https://codepen.io/jayfiled/pen/XYgWxW/">JSAccordions</a> by (<a href="https://codepen.io/jayfiled">@jayfiled</a>) on <a href="https://codepen.io">CodePen</a>.</p>
+<p data-height="265" data-theme-id="light" data-slug-hash="XYgWxW" data-default-tab="result" data-user="jayfiled" data-embed-version="2" data-pen-title="JSAccordions" class="codepen"><a href="https://codepen.io/jayfiled/pen/XYgWxW/">JSAccordions</a> by (<a href="https://codepen.io/jayfiled">@jayfiled</a>) on <a href="">CodePen</a>.</p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
 
