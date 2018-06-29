@@ -28,9 +28,6 @@ body {
     text-rendering: optimizeLegibility;
     letter-spacing: 0;
     background: #fff;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    -moz-font-feature-settings: "liga" on;
 }
 
 
