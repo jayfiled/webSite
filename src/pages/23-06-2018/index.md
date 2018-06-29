@@ -4,34 +4,20 @@ date: "2018-06-23T00:01:33.962Z"
 title: "Blue underlined links"
 ---
 
-###Wired.com's hyperlinks - 2 styles ###
+I was browsing the Wired.com website on my mobile and was impressed by it's complicated simplicity.  It had a plain white background and simple typography, but as you read, little things that impressed me were:
 
-It'll look like this:
+- The blue, *highlighted* style of hyperlink
+- The timing of the header shrinking to give the article more screen space
+- The way the header turns to social media links towards the bottom of the article
 
+So, as you would already know, I incorporated them into my site:
+
+I couldn't choose between this:
 <img class="blog-img" src="https://drive.google.com/uc?id=1_u22MQMHLfOBeuHynIpeGnvtt-iV8FNg">
 
 Or this:
 <img class="blog-img" src="https://drive.google.com/uc?id=1Hj9ZoYkyOGs_skP5KMbuPBXKk5GyshfS">
 
+But in the end, I thought I enjoyed the simplicity of the thinner line better :-)
 
-1. Simply reference a .png
-
-    `a {
-    background-image: url(http://cdn.mobify.com/sites/wired/production/i/link-bg.png);<br />
-    background-size: 5px 24px;
-    }`
-    
-Overlays a blue .png file over the top and bottom of the text, and the background size is increased to make it look like one single highlight
-
----
-
-2. ..or remote text-decoration and assign the *inset* value on the *box-shadow* property. 
-
-    `a {
-    text-decoration: none;
-    color: #000;
-    box-shadow: inset 0 -4px 0 #c0e6f7;
-    text-decoration: none;
-    }`
-
-I should explain the inset value in the box-shadow property.. 
+I've detailed how to replicate and remix them in <a href="#">this tutorial  </a><sup>coming soon..</sup>

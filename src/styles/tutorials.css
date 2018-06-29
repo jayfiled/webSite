@@ -1,36 +1,57 @@
-#card-container {
+.card-container {
   font-family: 'IBM Plex Sans', sans-serif;
   display: inline-block;
   position: relative;
   top: 25px;
   left: 25px;
   padding: 20px;
+  margin: 20px;
   width: 19%;
   border: 1px solid rgba(45,45,45,.25);
   border-radius: 10px;
-  box-shadow: 0 5px 5px rgba(0,0,0,0.19)
+  box-shadow: 5px 5px 5px rgba(0,0,0,0.19);
 }
 
 .h1 {
   
 }
 
-#code {
+.code {
   line-height: 2.5;
   background-color: rgba(45,45,45, 0.19);
   position: relative;
-  padding: 15px 0px 10px 25px;
+  z-index: 2;
+  padding: 15px 10px 10px 25px;
   border-radius: 5px;
   font-family: consolas, "Liberation Mono", courier, monospace
   
 }
 
-#code .css-property {
+p {
+  line-height: 1;
+}
+
+.code .css-property {
   display: inline-block;
   color: purple;
   text-indent: 2em;
 }
 
-#card-container:hover {
-  transform: scale(1.04);
+.card-container:hover {
+  animation-name: grow;
+  animation-duration: 500ms;
+  animation-fill-mode: forwards;
+}
+
+/* .card-container:active {
+  transform: scale(.99);
+  box-shadow: 3px 3px 3px rgba(0,0,0,0.19);
+}
+ */
+@keyframes grow {
+ 
+  100% {
+    transform: scale(1.03);
+    box-shadow: 10px 10px 10px rgba(0,0,0,0.19);
+  }
 }
