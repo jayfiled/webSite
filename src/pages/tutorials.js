@@ -9,7 +9,7 @@ const Tutorials = () => (
     <div>
     
     <h2>Let's start with a tutorial about a different type of Hyperlink </h2>
-<a href="./bluehyper">Recreating the blue HyperLinks from Wired.com</a><br /><br />
+<a href="/bluehyper">Recreating the blue HyperLinks from Wired.com</a><br /><br />
     <hr />
     
     <h1>How will this page look?</h1>
