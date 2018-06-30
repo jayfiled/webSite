@@ -1,7 +1,7 @@
 ---
-path: "/struggles"
+path: "/history"
 date: "2018-06-26T10:14:33.962Z"
-title: "Personal Journal of progression"
+title: "Personal journal of progression"
 ---
 
 <!--
@@ -10,27 +10,27 @@ title: "Personal Journal of progression"
 -->
 .. where  to start?  I'll just start writing..
 
-# 2010 - SmartPhones
+## 2010 - SmartPhones
 
-I got a smartphone and they had apps.  I knew Japanese and I had taught English.  I know a great idea for an app!  It's what I wished I had when I was learning Japanese! .. Oh shit, I don't know how to code.. or where to start.  And I am still mastering this Japanese Tour Guide thing.. I've heard of Eclipse... Hmm, not yet.
+<p class="pmd">I got a smartphone and they had apps.  I knew Japanese and I had taught English.  I know a great idea for an app!  It's what I wished I had when I was learning Japanese! .. Oh shit, I don't know how to code.. or where to start.  And I am still mastering this Japanese Tour Guide thing.. I've heard of Eclipse... Hmm, not yet.</p>
 
-# 2012 - Service Desk job for the tour company I worked for
+## 2012 - Service Desk job for the tour company I worked for
 
-I'll move  to Melbourne (from Uluru...) and finally get to learn about PCs and then decide which direction I'd like to go in ICT (still called IT at this point..)
+<p class="pmd">I'll move  to Melbourne (from Uluru...) and finally get to learn about PCs and then decide which direction I'd like to go in ICT (still called IT at this point..)<p>
 
-# 2012 - 2016 - z-index, padding and margins starting to feel like the same thing.. :confused:overwhelmed:
-Dabbled in some online HTML, CSS courses, got confused and frustrated with the lack of time & commitment needed to remember things I learned... gave up.
+## 2012 - 2016 - z-index, padding and margins starting to feel like the same thing.. :confused:overwhelmed:
+<p class="pmd">Dabbled in some online HTML, CSS courses, got confused and frustrated with the lack of time & commitment needed to remember things I learned... gave up.</p>
 
-# 2016 - a taste of buidling something fundamentally useful
+## 2016 - a taste of buidling something fundamentally useful
 
-At the company I worked for, the entire 4 years leading up to this point whenever we needed to put an Operating System image a PC or Laptop, we had to manually:
+<p class="pmd">At the company I worked for, the entire 4 years leading up to this point whenever we needed to put an Operating System image a PC or Laptop, we had to manually:</p>
 
 - Plug in a USB and boot to it
 - Add the PC to the domain
 - Customize the UI and install all programs
 - Install Windows updates over 2 or 3 days
 
-I had heard about ways to create an image with all of the above pre-configured and deploy it over the network, but I was so busy resetting passwords, changing toners and doing desk moves (specialist programs didn't roam well) that I never had time to research it, let alone implement it.
+<p class="pmd">I had heard about ways to create an image with all of the above pre-configured and deploy it over the network, but I was so busy resetting passwords, changing toners and doing desk moves (specialist programs didn't roam well) that I never had time to research it, let alone implement it.
 
 So, 2016 ticked over and I set myself a goal of automating the deployment of our Windows 7 images to PCs at any means possible.
 
@@ -40,13 +40,8 @@ Time never came my way at work, so I started waking up at 5 am every day (with a
 
 ** Now, when we needed a new image, it took 40 minutes to automate all of the above steps **
 
-The time this saved colleagues and I \~\~was quickly snuffled up with other work by my manager\~\~ was huge!  The feeling I got from being able to automate a manual task and save everyone so much time was incredible. I enjoyed the feeling so much, I continued to use this skill with all our software catalogue, new versions of windows over different models of machines in different offices in the world - all still at 5am in the morning before work.
+The time this saved colleagues and I ~~was quickly snuffled up with other work by my manager~~ was huge!  The feeling I got from being able to automate a manual task and save everyone so much time was incredible. I enjoyed the feeling so much, I continued to use this skill with all our software catalogue, new versions of windows over different models of machines in different offices in the world - all still at 5am in the morning before work.</p>
 
-# 2017 Oct - Nov - Hello \~\~world\~\~ PowerShell
+## 2017 Oct - Nov - Hello ~~world~~ PowerShell
 
-Even being the master of deploying images and software, there are still many manual tasks.  My colleagues had, over time made a .bat file or a vbscript for bits and pieces  For example the UI of the software I used to deploy the image and software - Microsoft SCCM
-
-
-  
-  
-
+<p class="pmd">Even being the master of deploying images and software, there are still many manual tasks.  My colleagues had, over time made a .bat file or a vbscript for bits and pieces  For example the UI of the software I used to deploy the image and software - Microsoft SCCM </p>
