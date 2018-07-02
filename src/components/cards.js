@@ -10,10 +10,17 @@ const Card = (props) => {
 
     <div className="card-container">
       <h1>{props.header}</h1>
-      <p>Some cool things I enjoyed learning as a newbie..</p>
+      <p>{props.blurb}</p>
       <div className="code">
         <p className="class-or-id">{props.classOrId} {'{'} </p>
-        <p className="css-property">{props.cssProperty}:</p> {props.exValue};          
+        <span className="css-property">{props.cssProperty} </span>{props.exValue}<br />
+        <span className="css-property">{props.cssProperty1} </span>{props.exValue1}
+        <p className="css-property">{props.cssProperty2}</p> {props.exValue2} 
+        <p className="css-property">{props.cssProperty3}</p> {props.exValue3} 
+        <p className="css-property">{props.cssProperty4}</p> {props.exValue4} 
+        <p className="css-property">{props.cssProperty5}</p> {props.exValue5} 
+        <p className="css-property">{props.cssProperty6}</p> {props.exValue6}
+        <p className="css-property">{props.cssProperty7}</p> {props.exValue7}
         <p>{'}'}</p>
       </div>
      </div>

@@ -18,7 +18,7 @@
 
 .code {
   line-height: 2.5;
-  background-color: rgba(45,45,45, 0.19);
+  background-color: rgba(45,45,45, 0.19) !important;
   position: relative;
   padding: 15px 10px 10px 25px;
   border-radius: 5px;
@@ -27,7 +27,7 @@
 }
 
 p {
-  line-height: 1.5;
+  line-height: 1;
 }
 
 .code .css-property {

@@ -1,5 +1,3 @@
-//Going to be the page for the blue hyperlink tutorial
-
 import React from 'react'
 import Link from 'gatsby-link'
 import Card from '../components/cards'
@@ -7,9 +5,11 @@ import '../styles/blog-listing.css'
 import '../styles/layout-overide.css'
 import '../styles/tutorials.css'
 
+
+
 const StringEx = () => (
   <div>
-    <Card header="Blue Hyperlinks" classOrId=".a" cssProperty="text-decoration:" exValue="none"/>
+    <Card header="Blue Hyperlinks" blurb="Using a picture to underline links" classOrId=".a" cssProperty="background-image:" cssProperty1="background-size:" exValue="url(http://cdn.mobify.com/sites/wired/production/i/link-bg.png);" exValue1="5px 24px;"/>
   </div>
 )
 
