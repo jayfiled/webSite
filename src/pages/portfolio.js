@@ -1,18 +1,23 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import '../styles/blog-listing.css';
+import '../styles/layout-overide.css';
+import '../styles/tutorials.css';
 
 const Portfolio = () => (
-  <div>
+  <div class>
     <h1>Portfolio</h1>
     <p>Thumbnails, captions and links to demo and source</p>
     <ol>
         <li>Service desk Remote tool</li>
+        <!-- Make this appear and disappear on click event -->
+        <img className="poshtool" src="https://drive.google.com/uc?id=1BDXagIrfn2wtLAtUtstmXSKKMDTX8pdT" />
         <li>Hiragana flash card tool</li>
         <li>Laptop loan register</li>
-        <li>>Other websites I'll create throughout the <a href="https://www.freecodecamp.org/">Free Code Camp Course</a></li>
+        <li>Other websites I'll create throughout the <a href="https://www.freecodecamp.org/">Free Code Camp Course</a></li>
     </ol>
     
+
     
 <h2>Here are my pens in the meantime:</h2>
 
@@ -31,7 +36,7 @@ const Portfolio = () => (
 
 <h3>Playgrounds</h3>
 
-<a href="https://codepen.io/jayfiled/">Link to CodePen</a>
+<a href="https://codepen.io/jayfiled/">Link to CodePen</a> <br />
 <a href="https://github.com/jayfiled">Link to my Github</a>
  
   </div>
