@@ -70,6 +70,7 @@ title: "My coding timeline"
 - Started to feel like a developer!
 
     **July**
+- Wrote a new feature into my PowerShell Windows Forms program - gets the list of installed programs and sorts them by installed date and brings up a text file.  Surprised myself how easy writing it was - learning JS has helped
 
 
 
