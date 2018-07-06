@@ -1,21 +1,71 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import Card from '../components/cards'
+import Img from 'gatsby-image'
 import '../styles/blog-listing.css'
 import '../styles/layout-overide.css'
 import '../styles/tutorials.css'
 
+export default ({ data }) => (
+  <div>
+    <Img resolutions={data.file.childImageSharp.resolutions} />
+  </div>
+);
+
+export const ImageQuery = graphql`
+  query ImageQuery {
+    file(relativePath: { eq: "tutorials/resources/blue-underlined-css.png" }) {
+      childImageSharp {
+        resolutions(width: 600, height: 300) {
+          ...GatsbyImageSharpResolutions
+        }
+      }
+    }
+  }
+`;
+
+/*
+
+export default ({ data }) => (
+  <div>
+    <Card header="Blue Hyperlinks" blurb="Using a picture to underline links" classOrId=".a" cssProperty="background-image:" cssProperty1="background-size:" exValue="url(http://cdn.mobify.com/sites/wired/production/i/link-bg.png);" exValue1="5px 24px;"/>
+    
+    <p>Should produce something like this</p>
+    <h1>Hello gatsby-image</h1>
+    <Img sizes={data.file.childImageSharp.resolutions} />
+  </div>
+);
+
+export const query = graphql`
+  query indexQuery {
+    fileName: file(relativePath: { eq: "tutorials/resources/blue-underlined-css.png" }) {
+      childImageSharp {
+        sizes(maxWidth: 400, maxHeight: 250) {
+          ...GatsbyImageSharpSizes
+        }
+      }
+    }
+  }
+`;
 
 
 const StringEx = () => (
   <div>
     <Card header="Blue Hyperlinks" blurb="Using a picture to underline links" classOrId=".a" cssProperty="background-image:" cssProperty1="background-size:" exValue="url(http://cdn.mobify.com/sites/wired/production/i/link-bg.png);" exValue1="5px 24px;"/>
+    
+    <p>Should produce something like this</p>
+    
   </div>
 )
 
 export default StringEx
 
-/*
+
+
+
+
+
+
 ###Wired.com's hyperlinks - 2 styles ###
 
 It'll look like this:

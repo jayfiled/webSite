@@ -34,6 +34,7 @@ const TemplateWrapper = ({ children }) => (
       ]}
     />
     <Header />
+        
     <div
       style={{
         margin: "0 auto",
@@ -76,7 +77,7 @@ const TemplateWrapper = ({ children }) => (
                 {children()}
               </div>
 
-              <div style={{ flex: 1 }}>
+              <div style={{ flex: .8 }}>
                 <Sidebar
                   title="jayDev"
                   description="A landing page for my coding journey. About me, a portfolio and a public space to 'Feynman' things."

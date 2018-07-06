@@ -17,6 +17,7 @@
 }
 
 .code {
+  font-size: 12px;
   line-height: 2.5;
   background-color: rgba(45,45,45, 0.19) !important;
   position: relative;
@@ -27,10 +28,12 @@
 }
 
 p {
+  font-size: 1em;
   line-height: 1.5;
 }
 
 .code .css-property {
+  font-size: 12px;
   display: inline-block;
   color: purple;
   text-indent: 2em;
