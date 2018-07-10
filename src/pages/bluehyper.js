@@ -8,7 +8,9 @@ import '../styles/tutorials.css'
 
 export default ({ data }) => (
   <div>
+        <p>It took me forever to figure out how to put this picture here with graphQL!... in react. In the end it was just a hack job :-/ </p>
     <Img resolutions={data.file.childImageSharp.resolutions} />
+        <p>I'll come back for the tutorials after I get more <a href="/JSBasics">comfortable with Javascript basics</a></p>
   </div>
 );
 
