@@ -1,2 +1,3 @@
-# a place for me to write and hone my web dev skills
-built with Gatsby
+# A landing page for me to practice, talk about, present and explain my coding journey.
+
+Deployed using netlify - https://jaysite.netlify.com/
