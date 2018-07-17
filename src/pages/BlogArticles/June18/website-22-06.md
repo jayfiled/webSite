@@ -8,7 +8,7 @@ title: "Organise the site"
 I've just whipped up this site using a walkthrough.. it's just a blog site, but I need to change it into my platform.
 
 It needs:
-* A landing page (my blue hyperlinks aren't applying =( ) which includes, &#10003; <!-- a check mark -->
+* A landing page &#10003; - which includes: <!-- a check mark -->
     * Go to my blog link &#10003; 
     * Go to my portfolio link &#10003; 
     * Go to my tutorials sections &#10003;

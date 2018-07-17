@@ -12,7 +12,7 @@ I was browsing the Wired.com website on my mobile and was impressed by it's comp
 
 So, as you would already know, I incorporated them into my site:
 
-I couldn't choose between this:
+I couldn't choose between this style:
 <img class="blog-img" src="https://drive.google.com/uc?id=1_u22MQMHLfOBeuHynIpeGnvtt-iV8FNg">
 
 Or this:

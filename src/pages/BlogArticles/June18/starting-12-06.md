@@ -12,13 +12,13 @@ I've started from zero many times to reach difficult personal goals, for example
 
     2. When I started in IT (now Technical Support Team lead),
     
-    3. When I was a tour guide for Japanese travellers to Australia,
+    3. When I was a Japanese speaking tour guide,
     
-    3. When I had kids (now I have 3! U+1F605 )
+    3. When I had kids (now I have 3!)
 
 
-I've thrived on learning.  It has defined me.  I've been in that place where you think the goal is unsurmountable, and I have reached it. I know how to learn new things. I can't slow down or stop for fear of missing out. 
+I've thrived on learning.  It has defined me.  I've been in that place where you think the goal is too far away, too hard. I've fought through the doubt and I have reached it - many times. I know how to learn new things. I can't slow down or stop for fear of losing myself.
 
-Programming and software development gives me everything I need professionally to continue.  There is a massive learning curve but progress is clear and noticable. I have spent so long looking at the beautiful designs and apps throughout the web and now I can join in the creation.
+Programming and software development gives me everything I need professionally to continue.  There is a massive learning curve, and sometimes the goals seem too far away, but progress is clear and noticable. I have spent so long looking at the beautiful designs and apps throughout the web and now I can join in the creation.
  
 Hello, world.

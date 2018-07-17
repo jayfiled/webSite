@@ -23,6 +23,8 @@ Dabbled in some online HTML, CSS courses, got confused and frustrated with the l
 
 ## 2016 - a taste of buidling something fundamentally useful
 
+**History** &#128218;
+
 At the company I worked for, the entire 4 years leading up to this point whenever we needed to put an Operating System image a PC or Laptop, we had to manually:
 
 - Plug in a USB and boot to it
@@ -31,6 +33,8 @@ At the company I worked for, the entire 4 years leading up to this point wheneve
 - Install Windows updates over 2 or 3 days
 
 I had heard about ways to create an image with all of the above pre-configured and deploy it over the network, but I was so busy resetting passwords, changing toners and doing desk moves (specialist programs didn't roam well) that I never had time to research it, let alone implement it.
+
+**Action** 	&#128293;
 
 So, 2016 ticked over and I set myself a goal of automating the deployment of our Windows 7 images to PCs at any means possible.
 
