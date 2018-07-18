@@ -4,7 +4,7 @@ date: "2017-06-12T17:12:33.962Z"
 title: "Starting late, and busy but.."
 ---
 
-I'm a 34 year old dad of 3.
+&#128304; I'm a 34 year old dad of 3.
 
 I've started from zero many times to reach difficult personal goals, for example;
 

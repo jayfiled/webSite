@@ -9,6 +9,7 @@ title: "My coding timeline"
 - Wrote a new feature into my PowerShell Windows Forms program - gets the list of installed programs from a remote PC and sorts them by installed date and presents it to you as a text file.  Surprised myself how easy writing it was - learning JS has helped.
 - Advised manager that I would like to pursue a career in development
 - Took a day off and completed a bunch of JS challenges - struggled with nested loops, but nutted it out now &#128170;&#127996;
+- <a href="https://codepen.io/jayfiled/full/QBEeKo">Designed the cards for the index page of my tutorials</a>
 
 **June**
 - Found a use for Twitter!
