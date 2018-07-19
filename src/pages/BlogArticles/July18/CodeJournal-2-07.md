@@ -27,8 +27,9 @@ It gave me the means to run scripts by double clicking them - I could save short
 
 However, something was still missing - a GUI that could remain open in the background that had buttons to execute the scripts based on variables in the text feild.
 
-I dabbled with Visual Studio and started some C# courses on Sololearn until I ran into this awesome guide right on my annual leave.
+I dabbled with Visual Studio and started some C# courses on Sololearn until I ran into <a href="http://techgenix.com/building-powershell-gui-part1/"> this awesome guide</a>right on my annual leave.
 
 I then continued to work on my first program every night for the next month and resulted in this!
 
 <a href="https://drive.google.com/open?id=1c7vKZ2ZyyHOIb_Gvpww1mlgfY2rt8dxn">Screenshots of Handy Scripts GUI</a>
+

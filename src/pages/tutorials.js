@@ -18,6 +18,8 @@ const Tutorials = () => (
     <li>A hover menu with categories</li>
     <li><a href="https://codepen.io/jayfiled/full/RJMLeV/">Cards made with react</a> that has the language at the top, title, author (accept public, open source contributions - make tutorial for it) and a blurb of the article.  When you click on it, it takes you to the page with the tutorial</li>
 </ul>
+
+
 <p> But I struggled to get it up and running for reasons detailed <a href="/progress">here</a></p>
 
     
