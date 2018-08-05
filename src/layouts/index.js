@@ -8,7 +8,8 @@ import './index.css'
 import "../styles/layout-overide.css";
 
 import Media from "react-media";
-
+// layouts/index.js
+import "prismjs/themes/prism-tomorrow.css";
 
 const Sidebar = props => (
   <div
