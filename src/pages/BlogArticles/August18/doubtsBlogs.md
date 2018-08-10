@@ -10,12 +10,12 @@ I'm having doubts about whether I can become a professional front-end developer.
 Objective: become a junior front end developer.
 
 <pre class="language-js">
-function addPrismJS(text) {
+`function addPrismJS(text) {
     console.log(text);
 }
 
 addPrismJS('I wonder if this works?');
-</pre>
+`</pre>
 
 Caveat: don't sacrifice my relationship with my wife, or miss any of my children's childhood to acheive the above.
 
@@ -23,7 +23,9 @@ Caveat: don't sacrifice my relationship with my wife, or miss any of my children
 
 - I am none of those.  Just a hard worker with a lot of enthusism.  I don't have a great memory, I don't pick up difficult subjects quickly, I don't enjoy sudoku, or have spent time solving logical puzzles for fun.
 
-- Even though I put in 3 - 4 hours a night, I don't feel like I'm getting close to the goal.
+- I rely on my effort to go away when I don't understand something and come back with the answers - I think this mindset holds me back from learning things on the fly.  But it works for me.
+
+- Even though I'm putting in 3 - 4 hours a night, I don't feel like I'm getting close to the goal.
 
 - I look at the requirements in job postings for a junior front end developer and realise that I am at least a year away of self study and a diploma / bootcamp away from even being considered at interviews.
 

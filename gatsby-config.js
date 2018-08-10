@@ -50,14 +50,14 @@ module.exports = {
     ],
   };
 
-// In your gatsby-config.js
-plugins: [
-  {
-    resolve: `gatsby-transformer-remark`,
-    options: {
-      plugins: [
-        `gatsby-remark-prismjs`,
-      ]
-    }
-  }
-];
+// // In your gatsby-config.js
+// plugins: [
+//   {
+//     resolve: `gatsby-transformer-remark`,
+//     options: {
+//       plugins: [
+//         `gatsby-remark-prismjs`,
+//       ]
+//     }
+//   }
+// ];
