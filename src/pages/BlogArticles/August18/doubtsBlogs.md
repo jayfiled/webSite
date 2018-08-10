@@ -9,13 +9,13 @@ I'm having doubts about whether I can become a professional front-end developer.
 
 Objective: become a junior front end developer.
 
-```javaScript
+<pre class="language-js">
 function addPrismJS(text) {
     console.log(text);
 }
 
 addPrismJS('I wonder if this works?');
-```
+</pre>
 
 Caveat: don't sacrifice my relationship with my wife, or miss any of my children's childhood to acheive the above.
 

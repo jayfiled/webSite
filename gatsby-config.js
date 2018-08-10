@@ -32,7 +32,7 @@ module.exports = {
           // you may use this to prevent Prism from re-processing syntax.
           // This is an uncommon use-case though;
           // If you're unsure, it's best to use the default value.
-          classPrefix: "language-",
+          classPrefix: "language-js",
           // This is used to allow setting a language for inline code
           // (i.e. single backticks) by creating a separator.
           // This separator is a string and will do no white-space
@@ -44,8 +44,20 @@ module.exports = {
           // setting this to '{ sh: "bash" }' will let you use
           // the language "sh" which will highlight using the
           // bash highlighter.
-          aliases: {js: 'javaScript'},
+          aliases: {},
         },
       },
     ],
   };
+
+// In your gatsby-config.js
+plugins: [
+  {
+    resolve: `gatsby-transformer-remark`,
+    options: {
+      plugins: [
+        `gatsby-remark-prismjs`,
+      ]
+    }
+  }
+];
