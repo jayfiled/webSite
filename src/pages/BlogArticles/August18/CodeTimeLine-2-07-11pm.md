@@ -1,8 +1,16 @@
 ---
 path: "/timelineCode"
-date: "2018-07-02T11:46:33.962Z"
+date: "2018-08-18T11:46:33.962Z"
 title: "My coding timeline"
 ---
+
+**August**
+- Had coffee and asked for an insight into development within our company and possible career path move
+ with the managers of our:
+    1. In-house development (staff facing sites) manager
+    2. Digital lead (customer facing Websites)
+- 1 sounded very positive, but recommended I get a software diploma first.  2 seemed to not care much, but actually 
+organised with his team to set me up in the website project *and* get a dev environment set up on my laptop.
 
 **July**
 - &#128293; Completed the Responsive Web Design Challenges on <a href="https://freecodecamp.org">freeCodeCamp.org</a> and also the <a href="https://codepen.io/jayfiled/full/YjPmEX">Survey form</a> project. (To go with the  <a href="https://codepen.io/jayfiled/full/OZqNOy">portfolio</a> and <a href="https://codepen.io/jayfiled/full/ZowvbG">tribute</a> projects. ) &#128293;
