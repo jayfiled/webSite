@@ -7,6 +7,20 @@ import '../styles/tutorials.css'
 
 const Tutorials = () => (
     <div>
+{/* Trying to put some cards - but the grid and color isn't applying*/}
+
+{/* <div id="card-container">
+  <div class="card-top">
+    <div class="tut-lang">CSS</div>
+    <div class="card-title">HOW TO CHANGE THE DEFAULT HYPERLINK STYLE</div>
+    <div class="tut-author">Joel </div>
+    <div class="tut-pic"><img src="http://0.gravatar.com/avatar/fd93b9c0bdf8ccd4fa47f03ec2dbe29f?s=108&d=mm&r=g" /></div>
+  </div>
+  <div class="card-bottom">
+    <p> One of the first things I wanted to when I made my first website was change the default style of the hyperlinks. After all, my site was going to reference all the amazing things that I have found that helped me ..</p>
+  </div>
+</div>
+<br /><br /><br /><br /> */}
     
     <h2>Let's start with a tutorial about a different type of Hyperlink </h2>
 <a href="/bluehyper">Recreating the blue HyperLinks from Wired.com</a><br /><br />

@@ -5,24 +5,34 @@ title: "My coding timeline"
 ---
 
 **August**
+- Worked on freeCodeCamp projects on lunch breaks - <a href="https://github.com/jayfiled/product-landing-page">Project landing page</a> 
 - Had coffee and asked for an insight into development within our company and possible career path move
  with the managers of our:
     1. In-house development (staff facing sites) manager
+        
+        **Outcome:**
+        He sounded very positive, but recommended I get a software diploma first.
     2. Digital lead (customer facing Websites)
-- 1 sounded very positive, but recommended I get a software diploma first.  2 seemed to not care much, but actually 
-organised with his team to set me up in the website project *and* get a dev environment set up on my laptop.
+
+        **Outcome:**
+        He seemed to not care much, but actually organised with his team to set me up on the website project *and* get a dev environment set up on my laptop.
+- Spend most evenings trying not to bother the developer that is helping me and work through setting up sitecore
+by myself.
+- Worked slowly through JS Control flow, Object and Array fundamentals with heaps of exercises.
+- PLayed around in serverless by writing two alexa skills - one that suggests a place to eat for lunch around work, one that recommends a tour to you.
+- Dabbled in APIs with openweathermap.org and made a <a href="https://github.com/jayfiled/simple-weather-app">simple command line app</a> that gets the temp &#x1F305 in a city of your choice.
 
 **July**
-- &#128293; Completed the Responsive Web Design Challenges on <a href="https://freecodecamp.org">freeCodeCamp.org</a> and also the <a href="https://codepen.io/jayfiled/full/YjPmEX">Survey form</a> project. (To go with the  <a href="https://codepen.io/jayfiled/full/OZqNOy">portfolio</a> and <a href="https://codepen.io/jayfiled/full/ZowvbG">tribute</a> projects. ) &#128293;
+- &#128293; Completed the Responsive Web Design Challenges on <a href="https://freecodecamp.org">freeCodeCamp.org</a> and also the <a href="https://github.com/jayfiled/survey-form">Survey form</a> project. (To go with the  <a href="https://github.com/jayfiled/portfolio">portfolio</a> and <a href="https://codepen.io/jayfiled/full/ZowvbG">tribute</a> projects. ) &#128293;
 - Wrote a new feature into my PowerShell Windows Forms program - gets the list of installed programs from a remote PC and sorts them by installed date and presents it to you as a text file.  Surprised myself how easy writing it was - learning JS has helped.
 - Advised manager that I would like to pursue a career in development
-- Took a day off and completed a bunch of JS challenges - struggled with nested loops, but nutted it out now &#128170;&#127996;
+- Took a day off and completed a bunch of JS challenges - struggled with nested loops, but nutted it out now &#128170;
 - <a href="https://codepen.io/jayfiled/full/QBEeKo">Designed the cards for the index page of my tutorials</a>
 
 **June**
 - Found a use for Twitter!
 - Followed a <a href="https://emkaydeum.wordpress.com/2017/01/01/css-html-holiday-trees/">tutorial which improved my Github skills and first experience in open source collaboration</a>.
-- Started FreeCodeCamp, <a href="https://codepen.io/jayfiled/full/ZowvbG">build my first site</a> and <a href="https://codepen.io/jayfiled/full/OZqNOy/">second site</a>.
+- Started FreeCodeCamp, <a href="https://codepen.io/jayfiled/full/ZowvbG">build my first site</a> and <a href="https://github.com/jayfiled/portfolio">second site</a>.
 - Stumbled upon a Gatsby walkthrough on Medium/FreeCodeCamp, made it, ruined it, did it again, toyed with deploying in GitHub, eventually deployed on Netlify
 - Tweaked, remixed, hacked away at the Gatsby site to build it into a platform for:
     - A place to talk out loud to myself
