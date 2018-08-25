@@ -25,6 +25,10 @@ const Tutorials = () => (
     <h2>Let's start with a tutorial about a different type of Hyperlink </h2>
 <a href="/bluehyper">Recreating the blue HyperLinks from Wired.com</a><br /><br />
     <hr />
+
+        <h2>JS fundamentals with explanations </h2>
+<a href="/JsFundamentals">All the notes I've taken</a><br /><br />
+    <hr />
     
     <h1>How will this page look?</h1>
         <p>Ideally, this will be the front page with tiles to click on to take you to tutorials, and: </p>

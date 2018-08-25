@@ -19,7 +19,7 @@ title: "My coding timeline"
 - Spend most evenings trying not to bother the developer that is helping me and work through setting up sitecore
 by myself.
 - Worked slowly through JS Control flow, Object and Array fundamentals with heaps of exercises.
-- PLayed around in serverless by writing two alexa skills - one that suggests a place to eat for lunch around work, one that recommends a tour to you.
+- Played around in serverless by writing two alexa skills - one that suggests a place to eat for lunch around work, one that recommends a tour to you.
 - Dabbled in APIs with openweathermap.org and made a <a href="https://github.com/jayfiled/simple-weather-app">simple command line app</a> that gets the temp &#x1F305 in a city of your choice.
 
 **July**
