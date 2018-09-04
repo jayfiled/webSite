@@ -18,9 +18,10 @@ His approach really targeted people like me who jumped straight in and took ever
 
 He had been there.  And had gotten through it, evaluated his own learnings and systematically developed a system that is a fail safe way of learning JavaScript.
 
-So I took his advice and went back to the basics with [Mosh's Learn JavaScript Course on Udemy](https://www.udemy.com/javascript-basics-for-beginners/learn) because it was packed full of exercises for practice.  I wrote out every bit of code, commented in explanations and faithfully spent the time to figure out the exercises and I feel like it is paying off.
+So I took his advice and went back to the basics (not with his paid course though 🙇‍), but with [Mosh's Learn JavaScript Course on Udemy](https://www.udemy.com/javascript-basics-for-beginners/learn) because it was packed full of exercises for practice.  I wrote out every bit of code, commented in explanations and faithfully spent the time to figure out the exercises and I feel like it is paying off.
 
 Zell classifies each stage of learning JS;
+
     The baby stage <-- Went back to this
     The child stage <-- Thought I was in the middle of this
     The teenager stage

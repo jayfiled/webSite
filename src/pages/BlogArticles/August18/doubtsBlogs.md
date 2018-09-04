@@ -4,7 +4,9 @@ date: "2018-08-05T10:42:33.962Z"
 title: "When in doubt, blog"
 ---
 
-I've been having doubts about whether I can become a professional front-end developer. &#x1F614 Since starting 5 months ago, I have learned things that I thought were beyond me.  
+I've been having doubts about whether I can become a professional front-end developer. &#x1F614 However, 7 months in and I can do things like: create a static sites based on react, commit daily to GitHub, deploy sites that update when changes are pushed and create/parse basic data structures in JavaScript.
+
+7 months ago, that would have all sounded foreign to me.  That would have been the stuff a *real* developer did. haha. Little did I know, all that is just skimming the surface of what a proffessional, paid developer is required to know and do daily.
 
 I code at lunch &#x1F354, I code for hours every night.  I've done the #100DaysofCode challenge (and I'm into round 2), I take days off work to grind out fundamentals in JS.  Every spare moment I have I am learning the next thing and improving on learned coding topics...  I've even enlisted some help from a developer at my work to help me get our companies replica website set up on my laptop so I can start making pull requests to our company's website.
 

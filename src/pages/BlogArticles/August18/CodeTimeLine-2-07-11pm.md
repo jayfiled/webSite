@@ -6,19 +6,9 @@ title: "My coding timeline"
 
 **August**
 - Worked on freeCodeCamp projects on lunch breaks - <a href="https://github.com/jayfiled/product-landing-page">Project landing page</a> 
-- Had coffee and asked for an insight into development within our company and possible career path move
- with the managers of our:
-    1. In-house development (staff facing sites) manager
-        
-        **Outcome:**
-        He sounded very positive, but recommended I get a software diploma first.
-    2. Digital lead (customer facing Websites)
-
-        **Outcome:**
-        He seemed to not care much, but actually organised with his team to set me up on the website project *and* get a dev environment set up on my laptop.
-- Spend most evenings trying not to bother the developer that is helping me and work through setting up sitecore
-by myself.
-- Worked slowly through JS Control flow, Object and Array fundamentals with heaps of exercises.
+- Talked to the head of digital about a possible move into web development and he was accomodating - allocating a developer to help me set up our sitecore instance on my laptop 😂
+- Spend most evenings following instructions of the dev to set up sitecore; Visual Studio, Version control, NPM, IIS, SQL server, bindings - a whole new world of overwhelm 😣
+- Worked slowly through JS Control flow, Object and Array fundamentals with heaps of exercises <a href="https://github.com/jayfiled/JSBasics/blob/master/index.js">(2500 lines of JavaScript and comments)</a>
 - Played around in serverless by writing two alexa skills - one that suggests a place to eat for lunch around work, one that recommends a tour to you.
 - Dabbled in APIs with openweathermap.org and made a <a href="https://github.com/jayfiled/simple-weather-app">simple command line app</a> that gets the temp &#x1F305 in a city of your choice.
 

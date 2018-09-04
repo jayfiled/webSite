@@ -10,40 +10,37 @@ title: "Personal journal of progression"
 -->
 .. where  to start?  I'll just start writing..
 
-## 2010 - SmartPhones
+## 2010 - 2016
 
-I got a smartphone and they had apps.  I knew Japanese and I had taught English.  I know a great idea for an app!  It's what I wished I had when I was learning Japanese! .. Oh shit, I don't know how to code.. or where to start.  And I am still mastering this Japanese Tour Guide thing.. I've heard of Eclipse... Hmm, not yet.
-
-## 2012 - Service Desk job for the tour company I worked for
-
-I'll move  to Melbourne (from Uluru...) and finally get to learn about PCs and then decide which direction I'd like to go in ICT (still called IT at this point..)
-
-## 2012 - 2016 - z-index, padding and margins starting to feel like the same thing.. :confused:overwhelmed:
-Dabbled in some online HTML, CSS courses, got confused and frustrated with the lack of time & commitment needed to remember things I learned... gave up.
+I'd been keen on coding and development since the first smartphones came out.  I dabbled in online courses. Couldn't get motivated, didn't yet know how to approach it.
 
 ## 2016 - a taste of buidling something fundamentally useful
 
 **History** &#128218;
 
-At the company I worked for, the entire 4 years leading up to this point whenever we needed to put an Operating System image a PC or Laptop, we had to manually:
+At the company I worked at, for the entire 4 years leading up to this point whenever we needed to put an Operating System image (Windows 7, 8 10 etc) a PC or Laptop, we had to manually:
 
-- Plug in a USB and boot to it
+- Plug in a USB and boot to it, format, partition HDD, click through setup options
 - Add the PC to the domain
 - Customize the UI and install all programs
-- Install Windows updates over 2 or 3 days
+- Install Windows updates 
 
-I had heard about ways to create an image with all of the above pre-configured and deploy it over the network, but I was so busy resetting passwords, changing toners and doing desk moves (specialist programs didn't roam well) that I never had time to research it, let alone implement it.
+.. which took over 2 or 3 days - for each machine 🙄
+
+I had heard about ways to create an image with all of the above pre-configured and deploy it over the network, but I was so busy resetting passwords, changing toners and moving PCs from desk to desk that I never had time to research it, let alone implement it during business hours.
 
 **Action** 	&#128293;
 
-So, 2016 ticked over and I set myself a goal of automating the deployment of our Windows 7 images to PCs at any means possible.
+So, 2016 ticked over and I set myself a goal of completely removing that task from my (and my colleagues) job.
 
-Time never came my way at work, so I started waking up at 5 am every day (with a 3 year old and a newborn) to research, plan and configure the images.
+Time never came my way at work, so instead of writing off the goal and continuing like every other year, I started waking up at 5 am every day (with a 3 year old and a newborn) to research, plan and configure the images.
 
-3 months later I had Windows 7 Professional tested, debugged and deploying perfectly to the 15+ models of desktop PC we had at our offices and remote sites.  By July I had included laptops and also Windows 8.1 to our mobile fleet.
+After a lot of trial and error, 3 months later I had replicated our company's desktop Operating system. I had created, tested, broke, debugged and finally deployed it perfectly to the 15+ models of desktop PC (all needing their own set of drivers).  By July I had gone through the same process for laptop images and also a new Windows 8.1 image for our Microsoft Surfaces.
 
-** Now, when we needed a new image, it took 40 minutes to automate all of the above steps **
+**Now, when we needed to put a new operating system image onto a PC, we could do it in a few clicks and the time it took was cut from 2 -  3 days down to 45 minutes**
 
-The time this saved colleagues and I ~~was quickly snuffled up with other work by my manager~~ was huge!  The feeling I got from being able to automate a manual task and save everyone so much time was incredible. I enjoyed the feeling so much, I continued to use this skill with all our software catalogue, new versions of windows over different models of machines in different offices in the world - all still at 5am in the morning before work.
+The time this saved colleagues and I ~~was quickly snuffled up with other work by my manager~~ was huge!  The feeling I got from being able to automate a manual task and save everyone so much time was incredible. I enjoyed the feeling so much, I continued to use this skill with all our software catalogue, new versions of windows over different models of machines in different offices in the world
+
+.. all at 5am in the morning.
 
 <a href="/progressCode">-- I'll put the code related progression journal here --</a>
