@@ -4,6 +4,14 @@ date: "2018-08-18T11:46:33.962Z"
 title: "My coding timeline"
 ---
 
+**September**
+- Working on [JS function fundamentals with Mosh](https://www.udemy.com/javascript-basics-for-beginners). (I really wish this course just kept going.. )
+- Started [hack reactor's](https://prep.hackreactor.com/p/hack-reactor-prep) (the only bootcamp I could find that uses full stack JavaScript) bootcamp prep, which pointed me down the prerequisit path of:
+- [Udacity's JS course](https://www.udacity.com/course/intro-to-javascript--ud803)
+- [JavaScript for Cats](http://jsforcats.com/) 🐱‍💻 (their callback function and async explanation really stuck)
+- 📚 [Eloquent JavaScript](http://eloquentjavascript.net/) (I really do prefer reading physical books)
+- 💻 [Watch and Code with Gordon Zhu](https://watchandcode.com) (basic, but he touches on debugging, which I haven't seen anywhere else.)
+
 **August**
 - Worked on freeCodeCamp projects on lunch breaks - <a href="https://github.com/jayfiled/product-landing-page">Project landing page</a> 
 - Talked to the head of digital about a possible move into web development and he was accomodating - allocating a developer to help me set up our sitecore instance on my laptop 😂
