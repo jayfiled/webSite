@@ -5,12 +5,15 @@ title: "My coding timeline"
 ---
 
 **September**
-- Working on [JS function fundamentals with Mosh](https://www.udemy.com/javascript-basics-for-beginners). (I really wish this course just kept going.. )
+- Started looking into WordPress & WooCommerce for a friend who asked me to do up a website with e-commerce.
+- Focussed on really *understanding* JS, instead of getting ahead of myself.
+- [Added all my notes from the JS fundamentals course I did to a website](https://jayfiled.github.io/JScheat/) so I can use it as a quick reference and exercise review.
+- Finished [JS fundamentals with Mosh](https://www.udemy.com/javascript-basics-for-beginners). (I really wish this course just kept going.. )
 - Started [hack reactor's](https://prep.hackreactor.com/p/hack-reactor-prep) (the only bootcamp I could find that uses full stack JavaScript) bootcamp prep, which pointed me down the prerequisit path of:
 - [Udacity's JS course](https://www.udacity.com/course/intro-to-javascript--ud803)
-- [JavaScript for Cats](http://jsforcats.com/) 🐱‍💻 (their callback function and async explanation really stuck)
+- [JavaScript for Cats](http://jsforcats.com/) 🐱‍💻 (their callback function and async explanation gave me a lightbulb moment)
 - 📚 [Eloquent JavaScript](http://eloquentjavascript.net/) (I really do prefer reading physical books)
-- 💻 [Watch and Code with Gordon Zhu](https://watchandcode.com) (basic, but he touches on debugging, which I haven't seen anywhere else.)
+- 💻 [Watch and Code with Gordon Zhu](https://watchandcode.com) (gives a very good example of breaking a requirement into chunks, starting with an MVP and building from there - really, really enjoying this 👍)
 
 **August**
 - Worked on freeCodeCamp projects on lunch breaks - <a href="https://github.com/jayfiled/product-landing-page">Project landing page</a> 
