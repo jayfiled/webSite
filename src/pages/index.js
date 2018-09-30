@@ -7,7 +7,7 @@ const HomePage = () => (
   <div>
     <a className="land-links" href="/blog">Blog</a><br />
     <a className="land-links" href="/portfolio">Portfolio </a><sup class="soon">(Coming soon)</sup> <br />
-    <a className="land-links" href="/tutorials">Tutorials </a><sup class="soon">(New!)</sup> <br />
+    <a className="land-links" href="/tutorials">Tutorials </a><sup class="soon">(Coming soon)</sup> <br />
   </div>
 )
 

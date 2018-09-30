@@ -27,7 +27,7 @@ const Tutorials = () => (
     <hr />
 
         <h2>JS fundamentals with explanations </h2>
-<a href="/JsFundamentals">All the notes I've taken</a><br /><br />
+<a href="https://jayfiled.github.io/JScheat/">All the fundamentals of JS, tied up into a simple accordion. Exercises included</a><br /><br />
     <hr />
     
     <h1>How will this page look?</h1>

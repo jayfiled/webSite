@@ -28,3 +28,4 @@ Anyway, I've been slotting as much coding and career nudging efforts into the ga
 
 I've got some annual leave coming up, where we will fly to see our respective parents ("Hi mum/stepmum, can you look after these kids while I spend the next 72 hours coding?")
 
+<!-- Friends website - another learning pivot - but a good one - I have no experience with wordpress, or any cms -->
