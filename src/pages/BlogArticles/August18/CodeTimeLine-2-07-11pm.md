@@ -1,15 +1,18 @@
 ---
 path: "/timelineCode"
-date: "2018-08-18T11:46:33.962Z"
-title: "My coding timeline"
+date: "2018-10-07"
+title: 📌"My coding timeline"
 ---
+
+**October**
+- [Feeling down about no coding progress over the last few weeks.](/timepoor) But should be able to start stringing more time together this month
 
 **September**
 - Started looking into WordPress & WooCommerce for a friend who asked me to do up a website with e-commerce.
 - Focussed on really *understanding* JS, instead of getting ahead of myself.
 - [Added all my notes from the JS fundamentals course I did to a website](https://jayfiled.github.io/JScheat/) so I can use it as a quick reference and exercise review.
 - Finished [JS fundamentals with Mosh](https://www.udemy.com/javascript-basics-for-beginners). (I really wish this course just kept going.. )
-- Started [hack reactor's](https://prep.hackreactor.com/p/hack-reactor-prep) (the only bootcamp I could find that uses full stack JavaScript) bootcamp prep, which pointed me down the prerequisit path of:
+- Started [hack reactor's](https://prep.hackreactor.com/p/hack-reactor-prep) (the only bootcamp I could find that uses full stack JavaScript) bootcamp prep, which pointed me down the prerequisite path of:
 - [Udacity's JS course](https://www.udacity.com/course/intro-to-javascript--ud803)
 - [JavaScript for Cats](http://jsforcats.com/) 🐱‍💻 (their callback function and async explanation gave me a lightbulb moment)
 - 📚 [Eloquent JavaScript](http://eloquentjavascript.net/) (I really do prefer reading physical books)
@@ -17,10 +20,10 @@ title: "My coding timeline"
 
 **August**
 - Worked on freeCodeCamp projects on lunch breaks - <a href="https://github.com/jayfiled/product-landing-page">Project landing page</a> 
-- Talked to the head of digital about a possible move into web development and he was accomodating - allocating a developer to help me set up our sitecore instance on my laptop 😂
+- Talked to the head of digital about a possible move into web development and he was accommodating - allocating a developer to help me set up our sitecore instance on my laptop 😂
 - Spend most evenings following instructions of the dev to set up sitecore; Visual Studio, Version control, NPM, IIS, SQL server, bindings - a whole new world of overwhelm 😣
 - Worked slowly through JS Control flow, Object and Array fundamentals with heaps of exercises <a href="https://github.com/jayfiled/JSBasics/blob/master/index.js">(2500 lines of JavaScript and comments)</a>
-- Played around in serverless by writing two alexa skills - one that suggests a place to eat for lunch around work, one that recommends a tour to you.
+- Played around in serverless by writing two Alexa skills - one that suggests a place to eat for lunch around work, one that recommends a tour to you.
 - Dabbled in APIs with openweathermap.org and made a <a href="https://github.com/jayfiled/simple-weather-app">simple command line app</a> that gets the temp &#x1F305 in a city of your choice.
 
 **July**
@@ -34,7 +37,7 @@ title: "My coding timeline"
 - Found a use for Twitter!
 - Followed a <a href="https://emkaydeum.wordpress.com/2017/01/01/css-html-holiday-trees/">tutorial which improved my Github skills and first experience in open source collaboration</a>.
 - Started FreeCodeCamp, <a href="https://codepen.io/jayfiled/full/ZowvbG">build my first site</a> and <a href="https://github.com/jayfiled/portfolio">second site</a>.
-- Stumbled upon a Gatsby walkthrough on Medium/FreeCodeCamp, made it, ruined it, did it again, toyed with deploying in GitHub, eventually deployed on Netlify
+- Stumbled upon a Gatsby walk through on Medium/FreeCodeCamp, made it, ruined it, did it again, toyed with deploying in GitHub, eventually deployed on Netlify
 - Tweaked, remixed, hacked away at the Gatsby site to build it into a platform for:
     - A place to talk out loud to myself
     - A place to show what I've built
@@ -58,7 +61,7 @@ title: "My coding timeline"
 - Created my first JavaScript project - a new tab chrome extension following CodeCademy's guide
 ###Game changing moment - I discovered MEDIUM
 > .. through some articles that appeared in my Google feed!
-- Dabbled in a node walkthrough
+- Dabbled in a node walk through
 - Learned Git on Codecademy
 - Started JavaScript Codecademy
 - Purchased Udemy Course 'Learn JavaScript by building real world projects' by Jonas Schmedtmann
@@ -79,7 +82,7 @@ title: "My coding timeline"
 **2016** 
 - Installed Android Studio with intentions of following guides to make simple apps, realised I didn't have time for it at that time in my life - gave up.
 - Confused on how to start.
-- Started writing one liners in PowerShell to acheive things like;
+- Started writing one liners in PowerShell to achieve things like;
     - Remotely restarting services
     - Removing appx packages from Windows 8
 - Good Friend/Co-worker turned into Full-Stack developer from taking over from a developer that left, and went from zero to full-time developer.
