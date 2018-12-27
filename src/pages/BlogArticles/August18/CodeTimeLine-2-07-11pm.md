@@ -3,8 +3,16 @@ path: "/timelineCode"
 date: "2018-10-07"
 title: 📌"My coding timeline"
 ---
+**December**
+
+**November**
+- Completed many projects and exercises in the Zero to Mastery course from CSS to REACT.  Listed in the readme.md [here](https://github.com/jayfiled/ZeroToMasteryProjects)
+- Went on a work trip to the UK and built my first [React app](https://jayfiled.github.io/fancyCats/) to practice the fundamentals. 🔥   
+
 
 **October**
+- Realised my JavaScript skills were outpacing my HTML and CSS skills, so started a course to address the gap called [Zero to Mastery](https://www.udemy.com/the-complete-web-developer-zero-to-mastery)
+- Got some great DOM manipulation practice in and 🎌 [finished my Japanese app for my kids](https://jayfiled.github.io/HiraganaFlash/)🎴
 - [Feeling down about no coding progress over the last few weeks.](/timepoor) But should be able to start stringing more time together this month
 
 **September**
