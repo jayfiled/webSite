@@ -3,6 +3,13 @@ path: "/timelineCode"
 date: "2018-10-07"
 title: 📌"My coding timeline"
 ---
+
+**January** 
+- Learned about NPM and modules in a Zero to Mastery Udemy course.
+- Focussing more on networking 
+
+🎉*2019*🥳
+
 **December**
 - Extremely busy with after hours work, but managed to squeeze in a bunch of JS problems on [project Euler](https://projecteuler.net/sign_in), [CoderByte](https://coderbyte.com/) and freeCodeCamp.org's [basic JavaScript algorithms](https://github.com/jayfiled/fcc) 💦
 - Went on a work trip to the UK and built my first [React app](https://jayfiled.github.io/fancyCats/) to practice the fundamentals. 🔥
